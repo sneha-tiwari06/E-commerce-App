@@ -7,6 +7,82 @@
   min-height: 100vh;
   width: 100%;
 }
+.sidebar {
+  position: fixed;
+  left: 10px;
+  top: 40%;
+  transform: translateY(-50%);
+  width: 100px;
+}
+
+.main-content {
+  margin-left: 200px;
+}
+
+select {
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+}
+
+select:focus {
+  outline: none;
+  border-color: #4caf50;
+}
+.logout-button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #f44336;
+  color: white;
+  width: 5%;
+ 
+  display: "block";
+}
+
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
+/* App.css */
+.shopping-cart {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.shopping-cart th, .shopping-cart td {
+  border: 1px solid #ddd;
+  padding: 0px;
+}
+
+.shopping-cart th {
+  background-color: #f2f2f2;
+}
+
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.cart-item p {
+  margin: 0;
+  
+}
+
+/* Adjust the styles based on your preferences */
 
 
 .product-list {
