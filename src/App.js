@@ -4,7 +4,7 @@ import "./App.css";
 import productsData from "./products.json";
 import Login from "./components/login";
 import Register from "./components/register";
-import ShoppingCart from "./components/shoppingCart";
+// import ShoppingCart from "./components/shoppingCart";
 
 function App() {
   const [user, setUser] = useState(null);
@@ -72,7 +72,7 @@ function App() {
               <table>
                 <thead>
                   <tr>
-                    <th>Item Name</th>
+                    <th>Product Name</th>
                     <th>Price</th>
                   </tr>
                 </thead>
