@@ -66,6 +66,8 @@ function App() {
               <option value="Watches">Watches</option>
               <option value="Electronics">Electronics</option>
               <option value="Clothing">Clothing</option>
+              <option value="Jwellery">Jwellery</option>
+              <option value="Dress">Dress</option>
             </select>
             <div className="shopping-cart">
               <h2>Shopping Cart</h2>
