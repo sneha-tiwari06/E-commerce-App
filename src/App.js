@@ -54,13 +54,13 @@ function App() {
       {user ? (
         <>
           <div className="sidebar">
-            <label htmlFor="sort"><h4>Sort By</h4></label>
+            <label htmlFor="sort"><h4>Sort By Price:</h4></label>
             <select id="sort" value={filter} onChange={handleSortChange}>
               <option value="none">Select</option>
               <option value="lowToHigh">Low to High</option>
               <option value="highToLow">High to Low</option>
             </select>
-            <label htmlFor="sort"><h4>Category</h4></label>
+            <label htmlFor="sort"><h4>Sort By Category:</h4></label>
             <select id="sort" value={filter} onChange={handleSortChange}>
               <option value="none">Select</option>
               <option value="Watches">Watches</option>
