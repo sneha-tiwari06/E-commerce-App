@@ -4,140 +4,160 @@
       "name": "Product 1",
       "price": 10.99,
       "image": "/img/watch.png",
-      "category": "Watches"
+      "category": "Watches",
+      "description": "Sample product for display"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 19.99,
       "image": "/img/clothes.jpg",
-      "category": "Clothing"
+      "category": "Clothing",
+      "description": "Sample product for display"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 5.99,
       "image": "/img/laptop.jpeg",
-      "category": "Electronics"
+      "category": "Electronics",
+      "description": "Sample product for display"
     },
     {
       "id": 4,
       "name": "Product 4",
       "price": 5.99,
       "image": "/img/n1.jpg",
-      "category": "Jwellery"
+      "category": "Jwellery",
+      "description": "Sample product for display"
     },
     {
         "id": 5,
         "name": "Product 5",
         "price": 10.99,
         "image": "/img/watch.png",
-        "category": "Watches"
+        "category": "Watches",
+        "description": "Sample product for display"
       },
       {
         "id": 6,
         "name": "Product 6",
         "price": 19.99,
         "image": "/img/clothes.jpg",
-        "category": "Clothing"
+        "category": "Clothing",
+        "description": "Sample product for display"
       },
       {
         "id": 7,
         "name": "Product 7",
         "price": 5.99,
         "image": "/img/neck.jpg",
-        "category": "Jwellery"
+        "category": "Jwellery",
+        "description": "Sample product for display"
       },
       {
         "id": 8,
         "name": "Product 8",
         "price": 5.99,
         "image": "/img/laptop.jpeg",
-        "category": "Electronics"
+        "category": "Electronics",
+        "description": "Sample product for display"
       },
       {
         "id": 9,
         "name": "Product 9",
         "price": 10.99,
         "image": "/img/watch.png",
-        "category": "Watches"
+        "category": "Watches",
+        "description": "Sample product for display"
       },
       {
         "id": 10,
         "name": "Product 11",
         "price": 19.99,
         "image": "/img/clothes.jpg",
-        "category": "Clothing"
+        "category": "Clothing",
+        "description": "Sample product for display"
       },
       {
         "id": 12,
         "name": "Product 12",
         "price": 5.99,
         "image": "/img/laptop.jpeg",
-        "category": "Electronics"
+        "category": "Electronics",
+        "description": "Sample product for display"
       },
       {
         "id": 13,
         "name": "Product 13",
         "price": 19.99,
         "image": "/img/clothes.jpg",
-        "category": "Clothing"
+        "category": "Clothing",
+        "description": "Sample product for display"
       },
       {
         "id": 14,
         "name": "Product 14",
         "price": 19.99,
         "image": "/img/d2.jpg",
-        "category": "Dress"
+        "category": "Dress",
+        "description": "Sample product for display"
       },
       {
         "id": 15,
         "name": "Product 15",
         "price": 19.99,
         "image": "/img/bangles.jpg",
-        "category": "Jwellery"
+        "category": "Jwellery",
+        "description": "Sample product for display"
       },
       {
         "id": 16,
         "name": "Product 16",
         "price": 19.99,
         "image": "/img/d1.jpg",
-        "category": "Dress"
+        "category": "Dress",
+        "description": "Sample product for display"
       },
       {
         "id": 17,
         "name": "Product 17",
         "price": 19.99,
         "image": "/img/neckpiece.jpg",
-        "category": "Jwellery"
+        "category": "Jwellery",
+        "description": "Sample product for display"
       },
       {
         "id": 18,
         "name": "Product 18",
         "price": 19.99,
         "image": "/img/necklace.jpg",
-        "category": "Jwellery"
+        "category": "Jwellery",
+        "description": "Sample product for display"
       },
       {
         "id": 19,
         "name": "Product 19",
         "price": 19.99,
         "image": "/img/d3.jpg",
-        "category": "Dress"
+        "category": "Dress",
+        "description": "Sample product for display"
       },
       {
         "id": 20,
         "name": "Product 20",
         "price": 19.99,
         "image": "/img/w1.jpg",
-        "category": "Watches"
+        "category": "Watches",
+        "description": "Sample product for display"
       },
       {
         "id": 21,
         "name": "Product 21",
         "price": 19.99,
         "image": "/img/l1.jpeg",
-        "category": "Electronics"
+        "category": "Electronics",
+        "description": "Sample product for display"
       }
       
 
